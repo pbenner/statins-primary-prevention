@@ -1,0 +1,285 @@
+[
+  {
+    "id": "1994_4S",
+    "type": "secondary prevention RCT",
+    "title": "Randomised trial of cholesterol lowering in 4444 patients with coronary heart disease: the Scandinavian Simvastatin Survival Study (4S)",
+    "doi": "10.1016/S0140-6736(94)90566-5",
+    "pmid": "7968073",
+    "pdf_urls": [
+      "https://www.cttcollaboration.org/files/documents-library/4s_main-results_lancet-1994.pdf"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/7968073/"
+  },
+  {
+    "id": "1995_WOSCOPS",
+    "type": "predominantly primary prevention RCT",
+    "title": "Prevention of coronary heart disease with pravastatin in men with hypercholesterolemia",
+    "doi": "10.1056/NEJM199511163332001",
+    "pmid": "7566020",
+    "pdf_urls": [
+      "https://www.cttcollaboration.org/files/documents-library/woscops_main-results_nejm-1995.pdf"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/7566020/"
+  },
+  {
+    "id": "1998_AFCAPS_TexCAPS",
+    "type": "primary prevention RCT",
+    "title": "Primary prevention of acute coronary events with lovastatin in men and women with average cholesterol levels: results of AFCAPS/TexCAPS",
+    "doi": "10.1001/jama.279.20.1615",
+    "pmid": "9613910",
+    "pdf_urls": [
+      "https://www.cttcollaboration.org/files/documents-library/afcaps-texcaps_main-results_jama-1998.pdf"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/9613910/"
+  },
+  {
+    "id": "2002_ALLHAT_LLT",
+    "type": "predominantly primary prevention RCT",
+    "title": "Major outcomes in moderately hypercholesterolemic, hypertensive patients randomized to pravastatin vs usual care: ALLHAT-LLT",
+    "doi": "10.1001/jama.288.23.2998",
+    "pmid": "12479764",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12479764/"
+  },
+  {
+    "id": "2002_PROSPER",
+    "type": "mixed primary and secondary prevention RCT",
+    "title": "Pravastatin in elderly individuals at risk of vascular disease (PROSPER): a randomised controlled trial",
+    "doi": "10.1016/S0140-6736(02)11600-X",
+    "pmid": "12457784",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12457784/"
+  },
+  {
+    "id": "2003_ASCOT_LLA",
+    "type": "predominantly primary coronary prevention RCT",
+    "title": "Prevention of coronary and stroke events with atorvastatin in hypertensive patients who have average or lower-than-average cholesterol concentrations, in ASCOT-LLA",
+    "doi": "10.1016/S0140-6736(03)12948-0",
+    "pmid": "12686036",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12686036/"
+  },
+  {
+    "id": "2003_Therapeutics_Letter_48",
+    "type": "critical evidence bulletin",
+    "title": "Do statins have a role in primary prevention?",
+    "url": "https://www.ti.ubc.ca/2003/06/30/do-statins-have-a-role-in-primary-prevention/",
+    "pdf_urls": [
+      "https://www.ti.ubc.ca/PDF/48.pdf"
+    ]
+  },
+  {
+    "id": "2004_CARDS",
+    "type": "primary prevention RCT in diabetes",
+    "title": "Primary prevention of cardiovascular disease with atorvastatin in type 2 diabetes in the Collaborative Atorvastatin Diabetes Study (CARDS)",
+    "doi": "10.1016/S0140-6736(04)16895-5",
+    "pmid": "15325833",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/15325833/"
+  },
+  {
+    "id": "2006_Thavendiranathan",
+    "type": "aggregate data meta-analysis",
+    "title": "Primary prevention of cardiovascular diseases with statin therapy: a meta-analysis of randomized controlled trials",
+    "doi": "10.1001/archinte.166.21.2307",
+    "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/411344"
+  },
+  {
+    "id": "2008_JUPITER",
+    "type": "primary prevention RCT",
+    "title": "Rosuvastatin to prevent vascular events in men and women with elevated C-reactive protein",
+    "doi": "10.1056/NEJMoa0807646",
+    "pmid": "18997196",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18997196/",
+    "pdf_urls": [
+      "https://www.cttcollaboration.org/files/documents-library/jupiter_main-results_nejm-2008.pdf"
+    ]
+  },
+  {
+    "id": "2010_Ray_mortality",
+    "type": "primary prevention mortality meta-analysis",
+    "title": "Statins and all-cause mortality in high-risk primary prevention: a meta-analysis of 11 randomized controlled trials involving 65229 participants",
+    "doi": "10.1001/archinternmed.2010.182",
+    "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/416105",
+    "additional_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/20585067/"
+    ]
+  },
+  {
+    "id": "2010_Therapeutics_Letter_77",
+    "type": "critical evidence bulletin",
+    "title": "Do statins have a role in primary prevention? An update",
+    "url": "https://www.ti.ubc.ca/2010/10/18/do-statins-have-a-role-in-primary-prevention-an-update/",
+    "pdf_urls": [
+      "https://www.ti.ubc.ca/wordpress/wp-content/uploads/2011/07/77.pdf"
+    ]
+  },
+  {
+    "id": "2011_Cochrane",
+    "type": "systematic review",
+    "title": "Statins for the primary prevention of cardiovascular disease",
+    "doi": "10.1002/14651858.CD004816.pub4",
+    "pmid": "21249663",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21249663/"
+  },
+  {
+    "id": "2012_CTT_low_risk",
+    "type": "individual participant data meta-analysis",
+    "title": "The effects of lowering LDL cholesterol with statin therapy in people at low risk of vascular disease: meta-analysis of individual data from 27 randomised trials",
+    "doi": "10.1016/S0140-6736(12)60367-5",
+    "pmcid": "PMC3437972",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3437972/",
+    "fulltext": true
+  },
+  {
+    "id": "2013_Cochrane",
+    "type": "updated systematic review",
+    "title": "Statins for the primary prevention of cardiovascular disease",
+    "doi": "10.1002/14651858.CD004816.pub5",
+    "pmcid": "PMC6481400",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6481400/",
+    "fulltext": true
+  },
+  {
+    "id": "2013_Abramson_BMJ",
+    "type": "critical analysis and commentary",
+    "title": "Should people at low risk of cardiovascular disease take a statin?",
+    "doi": "10.1136/bmj.f6123",
+    "url": "https://www.bmj.com/content/347/bmj.f6123",
+    "pdf_urls": [
+      "https://www.bmj.com/content/bmj/347/bmj.f6123.full.pdf"
+    ],
+    "additional_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/24149819/"
+    ]
+  },
+  {
+    "id": "2014_Abramson_correction",
+    "type": "published correction",
+    "title": "Correction: Should people at low risk of cardiovascular disease take a statin?",
+    "doi": "10.1136/bmj.g3329",
+    "url": "https://www.bmj.com/content/348/bmj.g3329",
+    "pdf_urls": [
+      "https://www.bmj.com/content/bmj/348/bmj.g3329.full.pdf"
+    ]
+  },
+  {
+    "id": "2016_HOPE3",
+    "type": "primary prevention RCT",
+    "title": "Cholesterol lowering in intermediate-risk persons without cardiovascular disease",
+    "doi": "10.1056/NEJMoa1600176",
+    "pmid": "27040132",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/27040132/",
+    "pdf_urls": [
+      "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1600176"
+    ]
+  },
+  {
+    "id": "2017_ALLHAT_older_subgroup",
+    "type": "post hoc primary prevention RCT subgroup analysis",
+    "title": "Effect of statin treatment vs usual care on primary cardiovascular prevention among older adults: the ALLHAT-LLT randomized clinical trial",
+    "doi": "10.1001/jamainternmed.2017.1442",
+    "pmcid": "PMC5543335",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5543335/",
+    "fulltext": true
+  },
+  {
+    "id": "2019_CTT_older_people",
+    "type": "individual participant data meta-analysis",
+    "title": "Efficacy and safety of statin therapy in older people: a meta-analysis of individual participant data from 28 randomised controlled trials",
+    "doi": "10.1016/S0140-6736(18)31942-1",
+    "pmcid": "PMC6429627",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6429627/",
+    "fulltext": true
+  },
+  {
+    "id": "2022_USPSTF_evidence",
+    "type": "primary prevention systematic evidence review",
+    "title": "Statin use for the primary prevention of cardiovascular disease in adults: updated evidence report and systematic review for the USPSTF",
+    "doi": "10.1001/jama.2022.12138",
+    "url": "https://www.uspreventiveservicestaskforce.org/uspstf/document/final-evidence-summary/statin-use-in-adults-preventive-medication",
+    "fulltext": true,
+    "pdf_urls": [
+      "https://www.uspreventiveservicestaskforce.org/home/getfilebytoken/k_QR3hvh2jVSPPLu6Q6m6r"
+    ]
+  },
+  {
+    "id": "2022_USPSTF_recommendation",
+    "type": "guideline recommendation",
+    "title": "Statin use for the primary prevention of cardiovascular disease in adults: preventive medication",
+    "doi": "10.1001/jama.2022.13044",
+    "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/statin-use-in-adults-preventive-medication",
+    "fulltext": true
+  },
+  {
+    "id": "2022_CTT_muscle",
+    "type": "blinded trial individual participant data safety meta-analysis",
+    "title": "Effect of statin therapy on muscle symptoms: an individual participant data meta-analysis of large-scale, randomised, double-blind trials",
+    "doi": "10.1016/S0140-6736(22)01545-8",
+    "pmcid": "PMC7613583",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7613583/",
+    "fulltext": true
+  },
+  {
+    "id": "2024_CTT_diabetes",
+    "type": "blinded trial individual participant data safety meta-analysis",
+    "title": "Effects of statin therapy on diagnoses of new-onset diabetes and worsening glycaemia in large-scale randomised blinded statin trials",
+    "doi": "10.1016/S2213-8587(24)00040-8",
+    "pmcid": "PMC7615958",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615958/",
+    "fulltext": true
+  },
+  {
+    "id": "2026_STAREE",
+    "type": "primary prevention RCT in older adults",
+    "title": "Atorvastatin, cardiovascular events, and disability-free survival in older adults",
+    "doi": "10.1056/NEJMoa2607314",
+    "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2607314",
+    "fulltext": true,
+    "pdf_urls": [
+      "https://www.nejm.org/doi/pdf/10.1056/NEJMoa2607314"
+    ]
+  },
+  {
+    "id": "2026_STAREE_ESC_release",
+    "type": "official trial results press release",
+    "title": "Cholesterol-lowering medication reduces major cardiovascular events by 30 per cent in older people without known cardiovascular disease",
+    "url": "https://www.escardio.org/news/press/press-releases/cholesterol-lowering-medication-reduces-major-cardiovascular-events-by-30-per-cent-in-older-people-without-known-cardiovascular-disease/",
+    "fulltext": true
+  },
+  {
+    "id": "2026_ACC_AHA_guideline",
+    "type": "clinical practice guideline",
+    "title": "2026 ACC/AHA multisociety guideline on the management of dyslipidemia",
+    "doi": "10.1161/CIR.0000000000001423",
+    "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001423",
+    "fulltext": true,
+    "pdf_urls": [
+      "https://www.ahajournals.org/doi/pdf/10.1161/CIR.0000000000001423"
+    ],
+    "additional_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/41824552/"
+    ]
+  },
+  {
+    "id": "2026_ACC_AHA_official_summary",
+    "type": "official guideline release",
+    "title": "ACC/AHA issue updated guideline for managing lipids, cholesterol",
+    "url": "https://www.acc.org/About-ACC/Press-Releases/2026/03/13/18/01/ACCAHA-Issue-UpDated-Guideline-for-Managing-Lipids-Cholesterol",
+    "fulltext": true
+  },
+  {
+    "id": "2025_ESC_EAS_guideline",
+    "type": "clinical practice guideline",
+    "title": "2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias",
+    "doi": "10.1093/eurheartj/ehaf190",
+    "url": "https://eas-society.org/publications/guidelines/2025-focused-update-of-the-2019-esc-eas-guidelines-for-the-management-of-dyslipidaemias/",
+    "fulltext": true
+  },
+  {
+    "id": "2023_NICE_NG238",
+    "type": "guideline recommendation",
+    "title": "Cardiovascular disease: risk assessment and reduction, including lipid modification",
+    "url": "https://www.nice.org.uk/guidance/ng238/chapter/Recommendations",
+    "fulltext": true,
+    "pdf_urls": [
+      "https://www.nice.org.uk/guidance/ng238/resources/cardiovascular-disease-risk-assessment-and-reduction-including-lipid-modification-pdf-66143902851781"
+    ]
+  }
+]

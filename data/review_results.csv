@@ -1,0 +1,12 @@
+source_id,population,endpoint,effect_measure,effect,ci_low,ci_high,absolute_risk_reduction_percentage_points,followup_context,caveat
+2006_Thavendiranathan,Primary prevention review,Major coronary events,RR,0.71,0.60,0.83,,Trial-specific follow-up,Do not add sample sizes across overlapping reviews
+2006_Thavendiranathan,Primary prevention review,All-cause mortality,RR,0.92,0.84,1.01,,Trial-specific follow-up,Statistically uncertain; not proof of zero effect
+2010_Ray_mortality,Primary prevention participants extracted from 11 trials,All-cause mortality,RR,0.91,0.83,1.01,,Mean 3.7 years; 65229 participants,Aggregate data random effects model
+2011_Cochrane,Primary prevention trials allowing up to 10 percent prior CVD,All-cause mortality,RR,0.83,0.73,0.95,,Trial-specific follow-up,Cautious conclusion despite significant mortality estimate
+2012_CTT_low_risk,Participants without prior vascular disease,All-cause mortality per 1 mmol/L LDL reduction,Rate ratio,0.91,0.85,0.97,,Approximately five years,Not a mortality estimate established separately in every low-risk stratum
+2013_Cochrane,Primary prevention review,All-cause mortality,OR,0.86,0.79,0.94,,Trial-specific follow-up,OR is not identical to RR
+2022_USPSTF_evidence,Adults without prior cardiovascular events,All-cause mortality,RR,0.92,0.87,0.98,0.35,Included trials six months to six years; not standardized to five years,Outcome-specific trials and denominators differ
+2022_USPSTF_evidence,Adults without prior cardiovascular events,Myocardial infarction,RR,0.67,0.60,0.75,0.85,Included trials six months to six years; not standardized to five years,Uses evidence report estimate; recommendation page gives 0.89 percentage points
+2022_USPSTF_evidence,Adults without prior cardiovascular events,Stroke,RR,0.78,0.68,0.90,0.39,Included trials six months to six years; not standardized to five years,Overlaps composite endpoints; do not add
+2022_USPSTF_evidence,Adults without prior cardiovascular events,Composite cardiovascular outcome,RR,0.72,0.64,0.81,1.28,Included trials six months to six years; not standardized to five years,Composite definitions vary
+2022_USPSTF_evidence,Adults without prior cardiovascular events,Cardiovascular mortality,RR,0.91,0.81,1.02,0.13,Included trials six months to six years; not standardized to five years,Not statistically significant

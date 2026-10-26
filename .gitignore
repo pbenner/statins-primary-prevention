@@ -1,0 +1,37 @@
+# Local environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# Downloaded sources and extracted text
+/papers/
+/text/
+/data/*_bibliography.json
+/data/*_crossref.json
+/data/download_manifest.json
+
+# Generated indexes and illustrative tables
+/STUDY_INDEX.md
+/references.bib
+/data/source_index.csv
+/data/absolute_risk_examples.csv
+/data/simpson_example.csv
+
+# Regenerated analysis inputs, provenance, tables, and figures
+/analysis/data/
+/analysis/sources/
+/analysis/output/
+/analysis/notebook_output/
+
+# Original-figure downloads and page renders
+/figures/*
+!/figures/README.md
+
+# Deliberate exception: presentation assets linked from the README
+!/figures/statins_overview.png
+!/figures/statins_overview.pdf
+!/figures/statins_overview.svg
+!/figures/harms_context.png
