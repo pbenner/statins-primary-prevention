@@ -70,6 +70,45 @@ changes when individual trials are omitted.
 [Ray et al. 2010](https://doi.org/10.1001/archinternmed.2010.182),
 [recalculation and methods](analysis/README.md#what-was-recalculated)
 
+## Conclusion
+
+**Statins can prevent first heart attacks and strokes; their benefits are not
+confined to people who have already had a cardiovascular event.** The 2022 review
+estimated **8.5 fewer people having a heart attack and 3.5 fewer deaths per 1,000
+treated** over the included trials' follow-up. These are separate, overlapping
+outcomes, not annual benefits. Absolute benefit depends on baseline risk, and
+evidence of efficacy does not mean that treatment is worthwhile for every
+low-risk person.
+[USPSTF evidence review](https://doi.org/10.1001/jama.2022.12138)
+
+The historical literature suggests how the contrary belief could have developed.
+Survival benefits were established early in people with coronary disease, while
+some primary prevention reviews left mortality uncertain. For example,
+**Ray et al. (2010)** reported mortality RR **0.91 (95% CI 0.83–1.01)**.
+**Therapeutics Letter 77 (2010)** acknowledged fewer coronary events but questioned
+overall net health benefit, emphasizing possible bias and incomplete harms data.
+These narrower concerns can be overgeneralized into the unsupported rule that
+statins only help after an event.
+[Ray et al.](https://doi.org/10.1001/archinternmed.2010.182),
+[Therapeutics Letter 77](https://www.ti.ubc.ca/wordpress/wp-content/uploads/2011/07/77.pdf)
+
+**Abramson et al.'s 2013 BMJ analysis** also argued against expanding prescribing
+to low-risk people. In a **May 2014 correction**, the authors withdrew their claim
+that statin side effects occur in 18–20% of patients: the underlying uncontrolled
+observations could not establish how many events were caused by statins. The
+correction also fixed an overstated treatment-discontinuation figure. Its scope
+was the harms claims; the article's separate mortality argument was not addressed
+by that correction.
+[Original analysis](https://doi.org/10.1136/bmj.f6123),
+[published correction](https://www.bmj.com/content/348/bmj.g3329)
+
+**Uncertain mortality benefit is not the same as no cardiovascular benefit.**
+The main distinctions are the outcome measured, baseline risk, and statistical
+precision; the results do not show the reversal required for Simpson's paradox.
+This is a plausible explanation of the published debate, rather than evidence
+about why any particular doctor holds the belief. See the
+[historical discussion](OVERVIEW.md#where-the-skeptical-claim-comes-from).
+
 ## Scope and interpretation
 
 Panels **A–C redraw published estimates or projections**. Panel **D includes our
